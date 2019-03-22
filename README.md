@@ -30,3 +30,27 @@ Screen Time = Number of Frames the actor is present in / Frame rate of video
 
 Area: Soft Computing
 Languages Used: Python
+
+
+
+
+
+
+Download the project and run the test.py file.
+
+The project is built using the following packages, we recommend using the same for the first run. Also make sure you are installing the following packages in the same order as installation of tensorflow caused problems with the installation of the other python libraries.
+Python 3.6
+Anaconda
+CUDA Toolkit 8.0 Ensure you append the relevant Cuda pathnames to the %PATH% environment variable as defined in the NVIDIA documentation.
+Nvidia Drivers for CUDA Toolkit 8.0
+cuDNN v5.1. Note that cuDNN is typically installed in a different location from the other CUDA DLLs. Ensure that you add the directory where you installed the cuDNN DLL to your %PATH% environment variables
+Tensorflow-GPU - 1.2.0
+For support in installation of CUDA, cuDNN and Tensorflow - https://www.youtube.com/watch?v=Ebo8BklTtmc
+Pip - 19
+Python Libraries - 
+Numpy
+Pandas
+Matplotlib
+Keras
+Skimage
+OpenCV
