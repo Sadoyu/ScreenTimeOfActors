@@ -70,3 +70,9 @@ Keras
 Skimage
 
 OpenCV
+
+
+
+Resources used:
+
+https://www.analyticsvidhya.com/blog/2018/09/deep-learning-video-classification-python/
