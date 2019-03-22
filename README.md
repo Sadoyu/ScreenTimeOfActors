@@ -1,4 +1,5 @@
-# ScreenTimeOfActors
+# Screen Time Of Actors In A Movie
+
 An application to predict the screen time of actors in a movie
 
 
